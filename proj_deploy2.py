@@ -72,7 +72,7 @@ if navigation == 'Introduction':
     st.title('Unsupervised Machine Learning project using K-Means Clustering and DBSCAN on DepEd public school data')
     st.write('------')
     from PIL import Image
-    img = Image.open('intropic.png')
+    img = Image.open('Intropic.png')
     st.image(img, width = 800)
     st.write('------')
 
